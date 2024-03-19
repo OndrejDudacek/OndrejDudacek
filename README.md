@@ -24,4 +24,4 @@ I am an IT student. I enjoy most fields, but I have found my greatest interest i
 
 ## Stats
 
-<a href="http://www.github.com/OndrejDudacek"><img src="https://github-readme-stats.vercel.app/api?username=OndrejDudacek&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="OndrejDudacek's GitHub stats" /></a><img display="flex" align="right" width="550" src="https://wakatime.com/share/@018d5a1c-ea5b-423c-811b-534e168f1e6e/77636ac8-fada-4c48-a897-e08b04f4049b.svg"></img>
+<img width="550" src="https://wakatime.com/share/@018d5a1c-ea5b-423c-811b-534e168f1e6e/77636ac8-fada-4c48-a897-e08b04f4049b.svg"></img><a href="http://www.github.com/OndrejDudacek"><img src="https://github-readme-stats.vercel.app/api?username=OndrejDudacek&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="OndrejDudacek's GitHub stats" /></a>
